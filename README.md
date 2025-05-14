@@ -28,7 +28,7 @@ python proxy.py
 
 [Firefox](https://support.mozilla.org/hu/kb/hogyan-hasznaljuk-a-konyvjelzoket)
 
-Majd ha az oldal betöltött rákattintani a könyvjelzőre.
+3. ha az oldal betöltött rákattintani a könyvjelzőre.
 
 ## Eredmény
 ![Végeredmény](https://i.imgur.com/ze6opmw.png)
