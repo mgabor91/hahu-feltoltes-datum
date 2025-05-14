@@ -10,8 +10,9 @@ Megjeleníti a hasznaltauto.hu találati listáján a hirdetés feltöltés idej
 
 CMD
 ```
-pip install flask requests flask-cors
+pip install flask flask-cors requests
 ```
+[proxy.py](https://github.com/mgabor91/hahu-feltoltes-datum/blob/main/proxy.py) lementése tetszőleges helyre
 
 ## Futtatás:
 Konzolban
