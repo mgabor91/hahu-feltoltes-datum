@@ -27,4 +27,4 @@ Egy új könyvjelzőbe bemásolni a bookmarklet fájlban található kódot
 [Firefox](https://support.mozilla.org/hu/kb/hogyan-hasznaljuk-a-konyvjelzoket)
 
 ## Eredmény
-![Végeredmény](./eredmeny.png)
+![Végeredmény](https://i.imgur.com/ze6opmw.png)
