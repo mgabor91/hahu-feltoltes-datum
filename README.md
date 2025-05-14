@@ -15,13 +15,12 @@ pip install flask flask-cors requests
 [proxy.py](https://github.com/mgabor91/hahu-feltoltes-datum/blob/main/proxy.py) lementése tetszőleges helyre
 
 ## Futtatás:
-Parancssorban
+1. Parancssorban
 ```
 python proxy.py
 ```
-elidítása
 
-## Böngészőben
+2. Böngészőben
 Egy új könyvjelzőbe bemásolni a [bookmarklet.js](https://github.com/mgabor91/hahu-feltoltes-datum/blob/main/bookmarklet.js) fájlban található kódot
 
 
