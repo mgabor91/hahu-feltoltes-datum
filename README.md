@@ -23,8 +23,11 @@ elidítása
 
 ## Böngészőben
 Egy új könyvjelzőbe bemásolni a bookmarklet fájlban található kódot
-[Chrome](https://tutorial.djangogirls.org/hu/python_installation/](https://support.google.com/chrome/answer/188842?hl=hu&co=GENIE.Platform%3DDesktop
-)
+
+
+[Chrome](https://support.google.com/chrome/answer/188842?hl=hu&co=GENIE.Platform%3DDesktop)
+
+
 [Firefox](https://support.mozilla.org/hu/kb/hogyan-hasznaljuk-a-konyvjelzoket)
 
 ## Eredmény
