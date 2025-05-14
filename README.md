@@ -22,7 +22,7 @@ python proxy.py
 elidítása
 
 ## Böngészőben
-Egy új könyvjelzőbe bemásolni a bookmarklet fájlban található kódot
+Egy új könyvjelzőbe bemásolni a [bookmarklet.js](https://github.com/mgabor91/hahu-feltoltes-datum/blob/main/bookmarklet.js) fájlban található kódot
 
 
 [Chrome](https://support.google.com/chrome/answer/188842?hl=hu&co=GENIE.Platform%3DDesktop)
